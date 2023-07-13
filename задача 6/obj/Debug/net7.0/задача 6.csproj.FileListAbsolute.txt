@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\bin\Debug\net7.0\задача 6.exe
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\bin\Debug\net7.0\задача 6.deps.json
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\bin\Debug\net7.0\задача 6.runtimeconfig.json
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\bin\Debug\net7.0\задача 6.dll
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\bin\Debug\net7.0\задача 6.pdb
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\задача 6.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\задача 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\задача 6.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\задача 6.AssemblyInfo.cs
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\задача 6.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\задача 6.dll
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\refint\задача 6.dll
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\задача 6.pdb
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\задача 6.genruntimeconfig.cache
+C:\Users\New\Desktop\Дз к 8 уроку\задача 6\obj\Debug\net7.0\ref\задача 6.dll

@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\bin\Debug\net7.0\задача 4.exe
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\bin\Debug\net7.0\задача 4.deps.json
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\bin\Debug\net7.0\задача 4.runtimeconfig.json
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\bin\Debug\net7.0\задача 4.dll
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\bin\Debug\net7.0\задача 4.pdb
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\задача 4.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\задача 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\задача 4.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\задача 4.AssemblyInfo.cs
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\задача 4.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\задача 4.dll
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\refint\задача 4.dll
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\задача 4.pdb
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\задача 4.genruntimeconfig.cache
+C:\Users\New\Desktop\Дз к 8 уроку\задача 4\obj\Debug\net7.0\ref\задача 4.dll
